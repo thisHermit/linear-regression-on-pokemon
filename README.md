@@ -21,9 +21,7 @@ To run this model on your computer,
 7. Enjoy the graph!
 
 commands:
-pip3 install numpy
-pip3 install matplotlib
-pip3 install pandas
+pip3 install numpy matplotlib pandas
 
 **Resources**:
 
