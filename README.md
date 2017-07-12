@@ -14,4 +14,5 @@ Siraj Raval:
 A YouTuber who teaches Machine Learning for free (https://goo.gl/VhgAJe).
 
 Google  (www.google.com)
+
 Github  (github.com)
