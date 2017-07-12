@@ -13,7 +13,8 @@ If this model knows the HP of a pokemon it has no info about it can predict its 
 To run this model on your computer, 
 
 1. Install python 3.5+ from the official website https://goo.gl/qJKCY1.
-2. Download.
+2. Download this zip file and unzip it in a suitable loacation.
+3. Place the.
 
 **Resources**:
 
