@@ -26,7 +26,7 @@ pip3 install numpy matplotlib pandas
 **Resources**:
 
 Siraj Raval:
-A YouTuber who teaches Machine Learning for free (https://goo.gl/VhgAJe).
+A YouTuber who teaching Machine Learning(https://goo.gl/VhgAJe).
 
 Google  (www.google.com)
 
