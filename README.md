@@ -16,6 +16,7 @@ To run this model on your computer,
 2. Download this zip file and unzip it in a suitable loacation.
 3. Place the pokemon_alopez247.csv in the unzipped folder.
 4. Run the python script (ie run linearRegression.py).
+5. Enjoy!
 
 **Resources**:
 
