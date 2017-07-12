@@ -1,4 +1,4 @@
-# linear-regression-on-pokemon
+# Linear-regression-on-pokemon
 Applying Linear Regression to find the relation between the HP and Total status of a Pokemon.
 
 Note : Total status means the overall awesomeness of a pokemon.
